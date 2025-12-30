@@ -20,12 +20,12 @@
 
 I'm an AI Developer and Intelligent Systems Engineer passionate about creating intelligent solutions that push the boundaries of what's possible. With expertise in deep learning, computer vision, and intelligent systems design, I build AI-powered applications that solve complex real-world problems.
 
--  Currently working on cutting-edge AI projects
--  Specializing in Deep Learning & Neural Networks
--  Focused on Computer Vision and NLP applications
-- Biomedical Engineering background 
-- Based in Tunisia | Sousse 
-- Always learning and exploring new AI technologies
+- 🔭 Currently working on cutting-edge AI projects
+- 🧠 Specializing in Deep Learning & Neural Networks
+- 🎯 Focused on Computer Vision and NLP applications
+- 🎓 Biomedical Engineering background
+- 🌍 Based in Sousse, Tunisia
+- 💡 Always learning and exploring new AI technologies
 
 ---
 
@@ -94,7 +94,7 @@ I'm an AI Developer and Intelligent Systems Engineer passionate about creating i
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=youssef-ben-letaifa&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1" alt="youssef-ben-letaifa" />
+  <img src="https://github-profile-trophy.vercel.app/?username=youssef-ben-letaifa&theme=algolia&no-frame=false&no-bg=true&margin-w=4" alt="youssef-ben-letaifa" />
 </p>
 
 ---
@@ -126,7 +126,7 @@ I'm an AI Developer and Intelligent Systems Engineer passionate about creating i
 
 - 🔬 **Research Staff Member** - IEEE
 - 🛠️ **Engineering Intern** - Laboratory LATIS, ENISo
-- 👥 **Active Member** - LEO Kef Acropolis Club (LIONS International) 
+- 👥 **Active Member** - BioMed Engineering Club INTeK
 - 🌟 **Leadership Roles** in various engineering & tech organizations
 - 📚 **Continuous Learner** in AI/ML advancements
 
@@ -138,8 +138,8 @@ I'm an AI Developer and Intelligent Systems Engineer passionate about creating i
 class YoussefBenLetaifa:
     def __init__(self):
         self.role = "AI Developer & Intelligent Systems Engineer"
-        self.location = "Tunisia"
-        self.education = "INTeK Engineering"
+        self.location = "Sousse, Tunisia"
+        self.background = "Biomedical Engineering"
         self.interests = [
             "Deep Learning",
             "Computer Vision", 
