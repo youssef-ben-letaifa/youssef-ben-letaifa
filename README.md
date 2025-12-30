@@ -79,12 +79,13 @@ I'm an AI Developer and Intelligent Systems Engineer passionate about creating i
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=youssef-ben-letaifa&show_icons=true&theme=cobalt&hide_border=true&count_private=true&bg_color=0d1117&title_color=0047AB&icon_color=0047AB&text_color=c9d1d9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-ben-letaifa&theme=cobalt&hide_border=true&background=0d1117&ring=0047AB&fire=0047AB&currStreakLabel=0047AB" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-ben-letaifa&layout=compact&theme=cobalt&hide_border=true&bg_color=0d1117&title_color=0047AB&text_color=c9d1d9&langs_count=10" alt="Top Languages" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssef-ben-letaifa&show_icons=true&theme=cobalt&hide_border=true&count_private=true&bg_color=0d1117&title_color=0047AB&icon_color=0047AB&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=youssef-ben-letaifa&theme=cobalt&hide_border=true&background=0d1117&ring=0047AB&fire=0047AB&currStreakLabel=0047AB)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-ben-letaifa&layout=compact&theme=cobalt&hide_border=true&bg_color=0d1117&title_color=0047AB&text_color=c9d1d9&langs_count=10)
+
 </div>
 
 ---
@@ -92,7 +93,9 @@ I'm an AI Developer and Intelligent Systems Engineer passionate about creating i
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=youssef-ben-letaifa&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies" />
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=youssef-ben-letaifa&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)
+
 </div>
 
 ---
@@ -100,7 +103,9 @@ I'm an AI Developer and Intelligent Systems Engineer passionate about creating i
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ben-letaifa&custom_title=Contribution%20Graph&bg_color=0d1117&color=0047AB&line=0047AB&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=youssef-ben-letaifa&custom_title=Contribution%20Graph&bg_color=0d1117&color=0047AB&line=0047AB&point=ffffff&area=true&hide_border=true)
+
 </div>
 
 ---
