@@ -1,93 +1,157 @@
-# 👋 Hi there, I'm Youssef Ben Letaifa
+<!-- Modern Banner -->
+<div align="center">
+  <img src="https://via.placeholder.com/1200x300/0A192F/FFFFFF?text=Youssef+Ben+Letafa+-+AI+&+Intelligent+Systems+Engineer" alt="Banner" width="100%"/>
+</div>
 
-🎓 **Engineering Student** at INTeK, Tunisia  
-💡 Passionate about AI, CAD design, Medical Technology, and Sustainable Innovation  
-📍 Based in Sousse
-📬 Reach me at: youssef.benletaifa@intek.u-jendouba.tn
+# 👋 Hello, I'm Youssef Ben Letaifa  
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/your-github-username?v=4" alt="Profile Picture" width="150" style="border-radius:50%;"/>
+</div>
 
----
+🎓 **Software Engineering Student** | 💻 **AI Developer & Intelligent Systems Engineer**  
+🌍 Based in Sousse, Tunisia | 📧 youssef.benletaifa@intek.u-jendouba.tn | 🔗 [LinkedIn](https://www.linkedin.com/in/youssefbenletaifa/) | 🌐 [Portfolio](https://sites.google.com/view/youssef-benletaifa/home)  
 
-## 🧠 About Me
-
-I’m a biomedical engineering student at the National Institute of Technologies and Sciences of Kef (INTeK), with a strong foundation in AI, deep learning, CAD modeling, and front-end development. Certified by Yale, Johns Hopkins, IBM, Nvidia, and others, I bring an interdisciplinary approach to solving real-world healthcare and engineering challenges.
-
-I’ve led student teams, delivered impactful freelance projects, and contributed to hackathons and research labs—blending technology and purpose.
-
----
-
-## 💼 Experience
-
-- 🔬 **Intern** @ LATIS Lab (ENISo) – Project: Gesture-Controlled Multimodal Medical Data Integration and Interaction System for the Operating Room
-Developed a touchless control system for operating rooms, enabling surgeons to manage medical equipment using hand gestures to maintain sterility and enhance efficiency. Designed and implemented a web interface on a Raspberry Pi 5, integrating an RGB camera and Leap Motion Controller for real-time gesture recognition with a pre-trained model. Configured hardware, built software using Flask and Nginx, and enabled device control via GPIO.
-- 🛠️ **Freelancer** – Delivered 15+ CAD models & multiple websites  
-- 🏥 **Intern** @ Clinique Olivier – Biomedical machine maintenance & installation  
-- 📱 **Social Media Manager** @ LEO Club – Managed campaigns, boosted engagement by 60%  
-- 👥 **President** @ BioMed Engineering INTeK Club – Led AI & Biomed workshops  
+Passionate innovator at the intersection of AI, cybersecurity, and healthcare technology. Building intelligent systems that drive real-world impact.
 
 ---
 
-## 💻 Technical Skills
+## 🌟 About Me  
+As a forward-thinking software engineering student at the Higher Institute of Computer Science of Kef (ISI Kef), I specialize in artificial intelligence, deep learning, and secure system design. With hands-on experience in PyTorch, LangChain, and cloud architectures, I've developed cutting-edge applications for medical data integration, disaster risk detection, and more.  
 
-**Languages & Tools:**  
-`Python`, `Matlab`, `HTML`, `CSS`, `JavaScript`, `AutoCAD`, `Fusion 360`, `Windows/Linux/Mac`
-
-**Soft Skills:**  
-Project Management • Team Leadership • Time Management • Event Promotion
+Certified by top institutions like Yale, IBM, NVIDIA, and Google, I'm committed to ethical AI and interdisciplinary solutions that enhance healthcare and sustainability. Let's connect to collaborate on transformative tech!
 
 ---
 
-## 🚀 Projects
+## 🛠️ Experience  
+### 🔬 Research & Development  
+- **3rd Engineering Internship** @ LATIS Lab (ENISo)  
+  *July 2025*  
+  Led development of a Hand Gesture-Controlled Multimodal Medical Data Integration System for operating rooms. Integrated Raspberry Pi 5 with gesture recognition via Leap Motion and pre-trained models, using Flask/Nginx for seamless web interfaces.  
 
-### 🔬 AI & Biomedical Projects
-- 🧠 **Mini GPT AI Agent** – Built using LLMs & DL techniques
-- 📈 **ML for Cancer Detection** – Python-based detection models
-- 🤖 **Face Recognition in MATLAB** – Achieved 96% accuracy
-- 🧬 **Next-Word Prediction (N-Gram)** – 97% prediction accuracy
+- **2nd & 1st Engineering Internships** @ Clinique Olivier Sousse  
+  *July-August 2024 & 2023*  
+  Optimized biomedical equipment maintenance, reducing downtime by 20%. Ensured compliance with safety standards and collaborated on performance enhancements.  
 
-### 🛠️ Engineering Projects
-- 🦾 Industrial Robot Arm – Modeled in Fusion 360
-- ⚙️ Gearbox Systems – Designed 5+ models in AutoCAD
-- ⚕️ Medical Imaging Units – Designed MRI Axis & Plateau for sports therapy
+### 📱 Leadership & Community  
+- **Media Manager** @ LEO Lions Club International  
+  *2024-Present*  
+  Directed social media strategies, increasing engagement by 60%.  
 
-### 🌍 Innovation Platforms
-- 🌱 **AgriTech Community Platform** – Hack4Food V1.0 Hackathon Winner  
-- 🧠 **Intelligent Electromechanical Actuator** – Designed for gel cartridge system
-
----
-
-## 🏅 Certifications
-
-- **Yale University** – Introduction to Medical Software  
-- **Johns Hopkins University** – Healthcare Systems Engineering  
-- **IBM & Google** – ML, Cybersecurity, GenAI, and Neural Networks  
-- **Nvidia (9+)** – Jetson Nano, OpenUSD, Disaster Monitoring, and more  
-- **Cisco** – IT & Networking | **Autodesk** – AutoCAD Professional  
-- **University of London & Glasgow** – Computer Security & Biomed Visualization  
-- **SolidWorks, CMMS, RMI, LLMs, Embedded Systems**, and more...
+- **Member** @ IEEE  
+  *2025-Present*  
 
 ---
 
-## 🏆 Participation & Leadership
+## ⚙️ Skills  
+### Core Technologies  
+| Category | Skills |  
+|----------|--------|  
+| **Programming** | Python, PyTorch, LangChain, JavaScript, MATLAB, SQL, HTML/CSS, React.js, Java, Dart/Flutter |  
+| **AI/ML** | Deep Learning, Neural Networks, Generative AI, Computer Vision, NLP |  
+| **Cloud & DevOps** | AWS VPC, Google Cloud, Hadoop |  
+| **Security** | Cybersecurity (CEH), Ethical Hacking, Secure Software Architecture |  
+| **Embedded/IoT** | Arduino, Raspberry Pi, Jetson Nano |  
+| **Design/Tools** | AutoCAD, Fusion 360, SolidWorks |  
 
-- 🏁 Hackathons: Hack4Food V1.0 , Entrepreneurship Challenges  
-- 🎓 Conferences: COP28 Dubai, Biomedical Journeys (INTeK & ESPITA)  
-- 🧑‍🏫 Organizer: Workshops in Biomedicine, CAD, AI & Medical Imaging  
-- 🌐 Clubs: LEO Lions , BioMed Club, Scouts Without Borders, Mecano Club
-
----
-
-## 📊 GitHub Stats
-
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
----
-
-## 📫 Let's Connect
-
-- 🔗 [LinkedIn]([https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/youssefbenletaifa-5b6078283/))  
-- 🌐 [Portfolio or Blog]([https://yourwebsite.com](https://sites.google.com/view/youssef-benletaifa/home))  
-- 📧 Email: youssef.benletaifa@intek.u-jendouba.tn
+### Soft Skills  
+- Leadership & Team Collaboration  
+- Project Management  
+- Innovative Problem-Solving  
 
 ---
 
-_“Engineering health solutions with intelligence and innovation.”_
+## 🚀 Featured Projects  
+<details>
+<summary>Click to expand AI & ML Projects</summary>
+
+- **Mini GPT AI Agent**  
+  Python-based LLM agent for intelligent conversations.  
+
+- **Soft Supervised Deep Learning Framework**  
+  Early disaster risk detection from satellite imagery using multi-spectral data.  
+
+- **Hand Gesture Recognition System**  
+  Multimodal interaction for operating rooms, enhancing surgical efficiency.  
+
+- **Olivetti Faces Classification**  
+  High-accuracy face recognition model.  
+
+- **Next Word Prediction**  
+  N-gram model with 97% accuracy (April 2025).  
+
+- **Face Recognition System**  
+  MATLAB implementation.  
+
+</details>
+
+<details>
+<summary>Click to expand Engineering & Software Projects</summary>
+
+- **SORA (Smart Operating Robotic Arm)**  
+  Hardware-software system controlling endoscopy cameras.  
+
+- **Soft-Way Mobile App**  
+  Tailored for ISI Kef software engineering students.  
+
+- **CoPilot AI Chat**  
+  Advanced AI chatbot application.  
+
+- **Sustainable Hackathon Platform**  
+  Hack4Food V1.0 winner (April 2025).  
+
+- **+10 AutoCAD Projects**  
+  Industrial designs including robot arms and medical imaging units.  
+
+</details>
+
+---
+
+## 📜 Certifications  
+<details>
+<summary>Click to view all certifications</summary>
+
+- LangChain for LLM Application Development (deeplearning.AI)  
+- Attention in Transformers: Concepts and Code in PyTorch (deeplearning.AI)  
+- ACP: Agent Communication Protocol (deeplearning.AI)  
+- Deep Learning & Neural Networks with Keras (IBM)  
+- Introduction to Generative AI (Google Cloud)  
+- NVIDIA: Disaster Risk Monitoring Using Satellite Imagery  
+- AWS Multi-Tier VPC Architecture  
+- NVIDIA: Getting Started with AI on Jetson Nano  
+- NVIDIA: AI for All – From Basics to GenAI Practice  
+- Certified Ethical Hacker (CEH)  
+- Foundations of Cybersecurity (Google)  
+- CISCO: Introduction to Cybersecurity  
+- Introduction to Computer Security (University of London)  
+- Introduction to Medical Software (Yale University)  
+- Embedded Software and Hardware Architecture (University of Colorado)  
+- Introduction to Data Analytics (IBM)  
+- Certificate of Competency: Introduction to Networking  
+
+</details>
+
+---
+
+## 🏆 Achievements & Honors  
+- 🥉 4th Place - ISI Innovation Hackathon  
+- 🥉 3rd Place - UJEN 2025: Digital Eco-Innovation  
+- Participant - Hack4Food V1.0 (April 2025)  
+- SOLIDWORKS DAY ENISO 2025  
+- Entrepreneurship Competition 2024  
+- Organizer & Participant - Biomedical Journeys (2023)  
+- Entrepreneurial Training Session (2022)  
+
+---
+
+## 📈 GitHub Insights  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=youssef-ben-letaifa&show_icons=true&theme=radical" alt="GitHub Stats"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-ben-letaifa&theme=radical" alt="GitHub Streak"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-ben-letaifa&layout=compact&theme=radical" alt="Top Languages"/>  
+</div>
+
+---
+
+_“Engineering the future: Intelligent, secure, and impactful.”_  
+
+Let's build something extraordinary together! 🚀  
