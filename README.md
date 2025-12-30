@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0047AB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://youssef-ben-letaifa.github.io/ben.letaifa.youssef/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0047AB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefbenletaifa/)
-[![Email](https://img.shields.io/badge/Email-0047AB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-0047AB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef.benletaifa@intek.u-jendouba.tn)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
@@ -177,7 +177,7 @@ I'm always excited to collaborate on AI projects and discuss innovative ideas!
   <a href="https://www.linkedin.com/in/youssefbenletaifa/">
     <img src="https://img.shields.io/badge/LinkedIn-0047AB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:youssef.benletaifa@intek.u-jendouba.tn">
     <img src="https://img.shields.io/badge/Email-0047AB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
