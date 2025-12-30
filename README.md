@@ -20,12 +20,12 @@
 
 I'm an AI Developer and Intelligent Systems Engineer passionate about creating intelligent solutions that push the boundaries of what's possible. With expertise in deep learning, computer vision, and intelligent systems design, I build AI-powered applications that solve complex real-world problems.
 
-- 🔭 Currently working on cutting-edge AI projects
-- 🧠 Specializing in Deep Learning & Neural Networks
-- 🎯 Focused on Computer Vision and NLP applications
-- 🎓 Engineering background from INTeK
-- 🌍 Based in Tunisia
-- 💡 Always learning and exploring new AI technologies
+-  Currently working on cutting-edge AI projects
+-  Specializing in Deep Learning & Neural Networks
+-  Focused on Computer Vision and NLP applications
+- Biomedical Engineering background 
+- Based in Tunisia | Sousse 
+- Always learning and exploring new AI technologies
 
 ---
 
@@ -78,35 +78,32 @@ I'm an AI Developer and Intelligent Systems Engineer passionate about creating i
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/youssef-ben-letaifa">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=youssef-ben-letaifa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=youssef-ben-letaifa&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssef-ben-letaifa&show_icons=true&theme=cobalt&hide_border=true&count_private=true&bg_color=0d1117&title_color=0047AB&icon_color=0047AB&text_color=c9d1d9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=youssef-ben-letaifa&theme=cobalt&hide_border=true&background=0d1117&ring=0047AB&fire=0047AB&currStreakLabel=0047AB)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-ben-letaifa&layout=compact&theme=cobalt&hide_border=true&bg_color=0d1117&title_color=0047AB&text_color=c9d1d9&langs_count=10)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-ben-letaifa&theme=algolia&hide_border=false" alt="youssef-ben-letaifa" />
+</p>
 
 ---
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=youssef-ben-letaifa&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=youssef-ben-letaifa&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1" alt="youssef-ben-letaifa" />
+</p>
 
 ---
 
 ## 📈 Contribution Activity
 
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=youssef-ben-letaifa&custom_title=Contribution%20Graph&bg_color=0d1117&color=0047AB&line=0047AB&point=ffffff&area=true&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ben-letaifa&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
+</p>
 
 ---
 
@@ -129,7 +126,7 @@ I'm an AI Developer and Intelligent Systems Engineer passionate about creating i
 
 - 🔬 **Research Staff Member** - IEEE
 - 🛠️ **Engineering Intern** - Laboratory LATIS, ENISo
-- 👥 **Active Member** - BioMed Engineering Club INTeK
+- 👥 **Active Member** - LEO Kef Acropolis Club (LIONS International) 
 - 🌟 **Leadership Roles** in various engineering & tech organizations
 - 📚 **Continuous Learner** in AI/ML advancements
 
