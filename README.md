@@ -16,16 +16,15 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm an AI Developer and Intelligent Systems Engineer passionate about creating intelligent solutions that push the boundaries of what's possible. With expertise in deep learning, computer vision, and intelligent systems design, I build AI-powered applications that solve complex real-world problems.
 
-- 🔭 Currently working on cutting-edge AI projects
-- 🧠 Specializing in Deep Learning & Neural Networks
-- 🎯 Focused on Computer Vision and NLP applications
-- 🎓 Biomedical Engineering background
-- 🌍 Based in Sousse, Tunisia
-- 💡 Always learning and exploring new AI technologies
+-  Currently working on cutting-edge AI projects
+-  Specializing in Deep Learning & Neural Networks
+-  Focused on Computer Vision and NLP applications
+-  Based in Sousse, Tunisia
+-  Always learning and exploring new AI technologies
 
 ---
 
@@ -111,7 +110,7 @@ I'm an AI Developer and Intelligent Systems Engineer passionate about creating i
 
 <div align="center">
 
-| 🧠 Deep Learning | 👁️ Computer Vision | 🗣️ NLP | 🤖 Intelligent Systems |
+|  Deep Learning |  Computer Vision |  NLP |  Intelligent Systems |
 |:---:|:---:|:---:|:---:|
 | Neural Networks | Image Classification | Text Analysis | Agent Design |
 | CNN & RNN | Object Detection | Sentiment Analysis | Decision Systems |
@@ -122,17 +121,17 @@ I'm an AI Developer and Intelligent Systems Engineer passionate about creating i
 
 ---
 
-## 💼 Professional Journey
+##  Professional Journey
 
-- 🔬 **Research Staff Member** - IEEE
-- 🛠️ **Engineering Intern** - Laboratory LATIS, ENISo
-- 👥 **Active Member** - BioMed Engineering Club INTeK
-- 🌟 **Leadership Roles** in various engineering & tech organizations
-- 📚 **Continuous Learner** in AI/ML advancements
+-  **Research Staff Member** - IEEE
+-  **Engineering Intern** - Laboratory LATIS, ENISo
+-  **Active Member** - BioMed Engineering Club INTeK
+-  **Leadership Roles** in various engineering & tech organizations
+-  **Continuous Learner** in AI/ML advancements
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 ```python
 class YoussefBenLetaifa:
@@ -164,7 +163,7 @@ me.say_hi()
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 
