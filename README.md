@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0047AB&center=true&vCenter=true&width=600&lines=AI+Developer+%7C+Deep+Learning+Specialist;Intelligent+Systems+Engineer;Computer+Vision+Expert;Building+AI-Powered+Solutions" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0047AB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://youssef-ben-letaifa.github.io/ben.letaifa.youssef/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0047AB?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://youssef-ben-letaifa.github.io/ben.letaifa.youssef/](https://youssefbenletaifa.lovable.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0047AB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefbenletaifa/)
 [![Email](https://img.shields.io/badge/Email-0047AB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef.benletaifa@intek.u-jendouba.tn)
 
