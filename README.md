@@ -1,16 +1,38 @@
 <div align="center">
 
-# 👋 Hi, I'm Youssef BEN LETAIFA
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=200&section=header&text=Youssef%20BEN%20LETAIFA&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Developer%20%26%20Intelligent%20Systems%20Engineer&descSize=18&descAlignY=55" width="100%" />
 
-### AI Developer & Intelligent Systems Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=700&height=80&lines=AI+Developer+%7C+Deep+Learning+Specialist;Intelligent+Systems+Engineer;Computer+Vision+Expert;Building+Next-Gen+AI+Solutions;Transforming+Ideas+into+Intelligence" alt="Typing Animation" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0047AB&center=true&vCenter=true&width=600&lines=AI+Developer+%7C+Deep+Learning+Specialist;Intelligent+Systems+Engineer;Computer+Vision+Expert;Building+AI-Powered+Solutions" alt="Typing SVG" />
+<p align="center">
+  <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" alt="AI" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/brain.png" alt="Brain" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/neural.png" alt="Neural" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/computer-vision.png" alt="Vision" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/robot.png" alt="Robot" width="40" height="40"/>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0047AB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://youssefbenletaifa.lovable.app/))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0047AB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefbenletaifa/)
-[![Email](https://img.shields.io/badge/Email-0047AB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef.benletaifa@intek.u-jendouba.tn)
+<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://youssefbenletaifa.lovable.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-4A90E2?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/youssefbenletaifa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:youssef.benletaifa@intek.u-jendouba.tn">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=youssefbenletaifa&label=Profile%20Views&color=3b82f6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 </div>
 
