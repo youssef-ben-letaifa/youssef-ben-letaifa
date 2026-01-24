@@ -138,9 +138,9 @@ I'm an AI Developer and Intelligent Systems Engineer passionate about creating i
 
 ##  Professional Journey
 
--  **Research Staff Member** - IEEE
+
 -  **Engineering Intern** - Laboratory LATIS, ENISo
--  **Active Member** - BioMed Engineering Club INTeK
+-  **Active Member** - LEO KEF ACROPOLIS
 -  **Leadership Roles** in various engineering & tech organizations
 -  **Continuous Learner** in AI/ML advancements
 
