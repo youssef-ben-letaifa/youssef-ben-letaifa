@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0047AB,100:00bfff&height=220&section=header&text=Youssef%20BEN%20LETAIFA&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=AI%20Developer%20%26%20Intelligent%20Systems%20Engineer&descAlignY=60&descSize=17&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0047AB,100:00bfff&height=220&section=header&text=Youssef%20BEN%20LETAIFA&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=AI%20Developer%20%7C%20Intelligent%20Systems%20Engineer&descAlignY=60&descSize=17&animation=fadeIn" />
 
 <br>
 
@@ -10,7 +10,7 @@
 
 <br>
 
-![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=620&lines=AI+Developer+%7C+Deep+Learning+Specialist;Intelligent+Systems+Engineer;Computer+Vision+Expert;Building+AI-Powered+Solutions)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=620&lines=AI+Developer+%7C+Deep+Learning+Specialist;Intelligent+Systems+Engineer;Computer+Vision+Expert;Building+AI-Powered+Solutions" />
 
 <br>
 
@@ -68,9 +68,7 @@ I'm an AI Developer and Intelligent Systems Engineer passionate about creating i
 ## 🏆 GitHub Achievements
 
 <div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=youssef-ben-letaifa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=youssef-ben-letaifa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
 ---
@@ -78,9 +76,7 @@ I'm an AI Developer and Intelligent Systems Engineer passionate about creating i
 ## 📈 Contribution Activity
 
 <div align="center">
-
-![activity](https://github-readme-activity-graph.vercel.app/graph?username=youssef-ben-letaifa&theme=tokyo-night&hide_border=true&area=true&area_color=0047AB&line=00BFFF&point=ffffff&bg_color=0d1117)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ben-letaifa&theme=tokyo-night&hide_border=true&area=true&area_color=0047AB&line=00BFFF&point=ffffff&bg_color=0d1117" width="95%" />
 </div>
 
 ---
@@ -149,7 +145,7 @@ me.say_hi()
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-%230047AB.svg?style=for-the-badge&logoColor=white)](https://youssef-ben-letaifa.github.io/ben.letaifa.youssef/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230047AB.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://youssef-ben-letaifa.github.io/ben.letaifa.youssef/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefbenletaifa/)
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef.benletaifa@intek.u-jendouba.tn)
 
@@ -159,7 +155,7 @@ me.say_hi()
 
 <br>
 
-![views](https://komarev.com/ghpvc/?username=youssef-ben-letaifa&color=0047AB&style=for-the-badge&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=youssef-ben-letaifa&color=0047AB&style=for-the-badge&label=Profile+Views" />
 
 <br>
 
@@ -167,6 +163,6 @@ me.say_hi()
 
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:0047AB,100:0d1117&height=140&section=footer&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:0047AB,100:0d1117&height=140&section=footer&animation=fadeIn" />
 
 </div>
