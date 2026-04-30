@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:0047AB,100:00bfff&amp;height=220&amp;section=header&amp;text=Youssef%20BEN%20LETAIFA&amp;fontSize=46&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=AI%20Developer%20%26%20Intelligent%20Systems%20Engineer&amp;descAlignY=60&amp;descSize=17&amp;animation=fadeIn" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0047AB,100:00bfff&height=220&section=header&text=Youssef%20BEN%20LETAIFA&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=AI%20Developer%20%26%20Intelligent%20Systems%20Engineer&descAlignY=60&descSize=17&animation=fadeIn)
 
 <br>
 
@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=620&lines=AI+Developer+%7C+Deep+Learning+Specialist;Intelligent+Systems+Engineer;Computer+Vision+Expert;Building+AI-Powered+Solutions" alt="Typing SVG" />
+![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=620&lines=AI+Developer+%7C+Deep+Learning+Specialist;Intelligent+Systems+Engineer;Computer+Vision+Expert;Building+AI-Powered+Solutions)
 
 <br>
 
@@ -68,7 +68,9 @@ I'm an AI Developer and Intelligent Systems Engineer passionate about creating i
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=youssef-ben-letaifa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+![trophy](https://github-profile-trophy.vercel.app/?username=youssef-ben-letaifa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+
 </div>
 
 ---
@@ -76,7 +78,9 @@ I'm an AI Developer and Intelligent Systems Engineer passionate about creating i
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ben-letaifa&theme=tokyo-night&hide_border=true&area=true&area_color=0047AB&line=00BFFF&point=ffffff&bg_color=0d1117" width="95%" />
+
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=youssef-ben-letaifa&theme=tokyo-night&hide_border=true&area=true&area_color=0047AB&line=00BFFF&point=ffffff&bg_color=0d1117)
+
 </div>
 
 ---
@@ -155,7 +159,7 @@ me.say_hi()
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=youssef-ben-letaifa&color=0047AB&style=for-the-badge&label=Profile+Views)
+![views](https://komarev.com/ghpvc/?username=youssef-ben-letaifa&color=0047AB&style=for-the-badge&label=Profile+Views)
 
 <br>
 
@@ -163,6 +167,6 @@ me.say_hi()
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00bfff,50:0047AB,100:0d1117&amp;height=140&amp;section=footer&amp;animation=fadeIn" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:0047AB,100:0d1117&height=140&section=footer&animation=fadeIn)
 
 </div>
