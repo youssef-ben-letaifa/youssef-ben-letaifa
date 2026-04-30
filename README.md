@@ -4,9 +4,9 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230047AB.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://youssefbenletaifa.lovable.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230047AB.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://benletaifayoussef.lovable.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefbenletaifa/)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef.benletaifa@intek.u-jendouba.tn)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ben.letaifa.youssef@gmail.com)
 
 <br>
 
@@ -20,15 +20,15 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm an AI Developer and Intelligent Systems Engineer passionate about creating intelligent solutions that push the boundaries of what's possible. With expertise in deep learning, computer vision, and intelligent systems design, I build AI-powered applications that solve complex real-world problems.
 
-- 🔭 Currently working on cutting-edge AI projects
-- 🧠 Specializing in Deep Learning & Neural Networks
-- 💡 Focused on Computer Vision and NLP applications
-- 📍 Based in Sousse, Tunisia
-- 🚀 Always learning and exploring new AI technologies
+-  Currently working on cutting-edge AI projects
+-  Specializing in Deep Learning & Neural Networks
+-  Focused on Computer Vision and NLP applications
+-  Based in Sousse, Tunisia
+-  Always learning and exploring new AI technologies
 
 ---
 
@@ -40,11 +40,11 @@ I'm an AI Developer and Intelligent Systems Engineer passionate about creating i
 
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" title="Python"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" title="PyTorch"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" title="TensorFlow"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48" height="48" title="Keras"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" title="OpenCV"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" title="Scikit-learn"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" title="Pandas"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" title="NumPy"/></p>
 
-### 🌐 Programming & Frameworks
+###  Programming & Frameworks
 
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" title="C"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" title="C++"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" title="Java"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" title="JavaScript"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" title="React"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" title="Node.js"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" title="Django"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" title="FastAPI"/></p>
 
-### 🗄️ Databases & Tools
+###  Databases & Tools
 
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" title="MongoDB"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" title="PostgreSQL"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" title="MySQL"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" title="Docker"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" title="Git"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" title="Linux"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" title="Jupyter"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" title="VSCode"/></p>
 
@@ -52,7 +52,7 @@ I'm an AI Developer and Intelligent Systems Engineer passionate about creating i
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=youssef-ben-letaifa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
@@ -65,7 +65,7 @@ I'm an AI Developer and Intelligent Systems Engineer passionate about creating i
 
 ---
 
-## 🏆 GitHub Achievements
+##  GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=youssef-ben-letaifa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
@@ -73,7 +73,7 @@ I'm an AI Developer and Intelligent Systems Engineer passionate about creating i
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ben-letaifa&theme=tokyo-night&hide_border=true&area=true&area_color=0047AB&line=00BFFF&point=ffffff&bg_color=0d1117" width="95%" />
@@ -81,11 +81,11 @@ I'm an AI Developer and Intelligent Systems Engineer passionate about creating i
 
 ---
 
-## 🔬 Areas of Expertise
+##  Areas of Expertise
 
 <div align="center">
 
-| 🧠 Deep Learning | 👁️ Computer Vision | 💬 NLP | ⚙️ Intelligent Systems |
+|  Deep Learning |  Computer Vision |  NLP |  Intelligent Systems |
 |:---:|:---:|:---:|:---:|
 | Neural Networks | Image Classification | Text Analysis | Agent Design |
 | CNN & RNN | Object Detection | Sentiment Analysis | Decision Systems |
@@ -96,16 +96,16 @@ I'm an AI Developer and Intelligent Systems Engineer passionate about creating i
 
 ---
 
-## 🛤️ Professional Journey
-
-- 🔬 **Engineering Intern** — Laboratory LATIS, ENISo
-- 🦁 **Active Member** — LEO KEF ACROPOLIS
-- 🏅 **Leadership Roles** in various engineering & tech organizations
-- 📚 **Continuous Learner** in AI/ML advancements
+##  Professional Journey
+-  **Medical Software Developer** — TSMED Systems
+-  **Design and Application of Artificial Intelligence Techniques in Biomedical Engineering Systems** — Laboratory LATIS, ENISo
+-  **Active Member** — LEO KEF ACROPOLIS
+-  **Leadership Roles** in various engineering & tech organizations
+-  **Continuous Learner** in AI/ML advancements
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 ```python
 class YoussefBenLetaifa:
@@ -137,7 +137,7 @@ me.say_hi()
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 
@@ -145,13 +145,13 @@ me.say_hi()
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230047AB.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://youssef-ben-letaifa.github.io/ben.letaifa.youssef/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230047AB.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://benletaifayoussef.lovable.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefbenletaifa/)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef.benletaifa@intek.u-jendouba.tn)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ben.letaifa.youssef@gmail.com)
 
 <br><br>
 
-> ⚡ *"The science of today is the technology of tomorrow."* — Edward Teller
+> ⚡ "Genius is one percent inspiration and ninety-nine percent perspiration." — Thomas Edison
 
 <br>
 
