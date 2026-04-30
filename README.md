@@ -51,16 +51,18 @@ I'm an AI Developer and Intelligent Systems Engineer passionate about creating i
 </div>
 
 ---
-
 ##  GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=youssef-ben-letaifa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=youssef-ben-letaifa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=youssef-ben-letaifa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117#gh-dark-mode-only" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=youssef-ben-letaifa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117#gh-dark-mode-only" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=youssef-ben-letaifa&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true#gh-light-mode-only" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=youssef-ben-letaifa&layout=compact&langs_count=8&theme=default&hide_border=true#gh-light-mode-only" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-ben-letaifa&theme=tokyonight&hide_border=true&background=0d1117&ring=00BFFF&fire=0047AB&currStreakLabel=00BFFF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-ben-letaifa&theme=tokyonight&hide_border=true&background=0d1117&ring=00BFFF&fire=0047AB&currStreakLabel=00BFFF#gh-dark-mode-only" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-ben-letaifa&theme=default&hide_border=true&ring=0047AB&fire=0047AB&currStreakLabel=0047AB#gh-light-mode-only" />
 </div>
 
 ---
@@ -68,7 +70,8 @@ I'm an AI Developer and Intelligent Systems Engineer passionate about creating i
 ##  GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=youssef-ben-letaifa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=youssef-ben-letaifa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7#gh-dark-mode-only" />
+  <img src="https://github-profile-trophy.vercel.app/?username=youssef-ben-letaifa&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7#gh-light-mode-only" />
 </div>
 
 ---
@@ -76,10 +79,13 @@ I'm an AI Developer and Intelligent Systems Engineer passionate about creating i
 ##  Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ben-letaifa&theme=tokyo-night&hide_border=true&area=true&area_color=0047AB&line=00BFFF&point=ffffff&bg_color=0d1117" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ben-letaifa&theme=tokyo-night&hide_border=true&area=true&area_color=0047AB&line=00BFFF&point=ffffff&bg_color=0d1117#gh-dark-mode-only" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ben-letaifa&theme=github&hide_border=true&area=true&area_color=0047AB&line=0047AB&point=0047AB#gh-light-mode-only" width="95%" />
 </div>
 
 ---
+
+
 
 ##  Areas of Expertise
 
