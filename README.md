@@ -32,7 +32,7 @@ I'm an AI Developer and Intelligent Systems Engineer passionate about creating i
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -151,7 +151,7 @@ me.say_hi()
 
 <br><br>
 
-> ⚡ "Genius is one percent inspiration and ninety-nine percent perspiration." — Thomas Edison
+> **"Genius is one percent inspiration and ninety-nine percent perspiration." — Thomas Edison**
 
 <br>
 
