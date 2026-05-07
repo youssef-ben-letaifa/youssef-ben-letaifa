@@ -40,14 +40,11 @@ Currently expanding into Transformer architectures, Reinforcement Learning, and 
 ```
   Role      →  AI Developer
   Field     →  Intelligent Systems
-  Research  →  LATIS Lab, ENISo
-  Company   →  TSMED Systems
   Location  →  Sousse, Tunisia
   Focus     →  Deep Learning
               Computer Vision
               NLP & LLMs
               MLOps & Agents
-  Status    →  Open to Collaborate
 ```
 
 </td>
