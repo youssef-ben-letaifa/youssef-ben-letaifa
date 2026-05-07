@@ -1,174 +1,135 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0047AB,100:00bfff&height=220&section=header&text=Youssef%20BEN%20LETAIFA&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=AI%20Developer%20%7C%20Intelligent%20Systems%20Engineer&descAlignY=60&descSize=17&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:0047AB&height=200&section=header&text=Youssef%20BEN%20LETAIFA&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=AI%20Developer%20%E2%80%82%7C%E2%80%82%20Intelligent%20Systems%20Engineer&descAlignY=62&descSize=16&animation=fadeIn" />
 
-<br>
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230047AB.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://benletaifayoussef.lovable.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefbenletaifa/)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ben.letaifa.youssef@gmail.com)
+<a href="https://benletaifayoussef.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-0047AB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/youssefbenletaifa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:ben.letaifa.youssef@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=620&lines=AI+Developer+%7C+Deep+Learning+Specialist;Intelligent+Systems+Engineer;Computer+Vision+Expert;Building+AI-Powered+Solutions" />
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="780" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+Developer+%7C+Deep+Learning+Specialist;Computer+Vision+%26+NLP+Engineer;Building+Intelligent+Systems+that+Matter;Based+in+Sousse%2C+Tunisia+%F0%9F%87%B9%F0%9F%87%B3" />
 
 </div>
 
 ---
 
-##  About Me
+## ◈ About Me
 
-I'm an AI Developer and Intelligent Systems Engineer passionate about creating intelligent solutions that push the boundaries of what's possible. With expertise in deep learning, computer vision, and intelligent systems design, I build AI-powered applications that solve complex real-world problems.
+> *Building AI-powered systems that push the boundaries of what's possible.*
 
--  Currently working on cutting-edge AI projects
--  Specializing in Deep Learning & Neural Networks
--  Focused on Computer Vision and NLP applications
--  Based in Sousse, Tunisia
--  Always learning and exploring new AI technologies
+I'm an **AI Developer & Intelligent Systems Engineer** with a background in Biomedical Engineering. I specialize in deep learning architectures, computer vision, and NLP — turning complex research into real-world applications.
+
+- 🔬 **Current role:** Medical Software Developer @ TSMED Systems  
+- 🧪 **Research:** AI Techniques in Biomedical Engineering — Laboratory LATIS, ENISo  
+- 📍 **Location:** Sousse, Tunisia  
+- 🎯 **Focus:** Transformer models · Reinforcement Learning · MLOps · Agent Design  
 
 ---
 
-##  Tech Stack
+## ◈ Tech Stack
+
+### 🤖 AI & Machine Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=sklearn,keras&theme=dark" />
+</p>
+
+### 🖥️ Programming & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,react,nodejs,django,fastapi&theme=dark" />
+</p>
+
+### 🗄️ Databases & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,docker,git,linux&theme=dark" />
+</p>
+
+---
+
+## ◈ GitHub Analytics
+
+<div align="center">
+  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=youssef-ben-letaifa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=0047AB&text_color=ffffff" />
+  &nbsp;
+  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=youssef-ben-letaifa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=ffffff" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-ben-letaifa&theme=tokyonight&hide_border=true&background=0d1117&ring=00BFFF&fire=0047AB&currStreakLabel=00BFFF&sideLabels=ffffff&dates=888888" />
+</div>
+
+---
+
+## ◈ Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=youssef-ben-letaifa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</div>
+
+---
+
+## ◈ Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ben-letaifa&theme=tokyo-night&hide_border=true&area=true&area_color=0047AB&line=00BFFF&point=ffffff&bg_color=0d1117" width="96%" />
+</div>
+
+---
+
+## ◈ Expertise Matrix
 
 <div align="center">
 
-### 🤖 Artificial Intelligence & Machine Learning
-
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" title="Python"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" title="PyTorch"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" title="TensorFlow"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48" height="48" title="Keras"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" title="OpenCV"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" title="Scikit-learn"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" title="Pandas"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" title="NumPy"/></p>
-
-###  Programming & Frameworks
-
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" title="C"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" title="C++"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" title="Java"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" title="JavaScript"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" title="React"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" title="Node.js"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" title="Django"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" title="FastAPI"/></p>
-
-###  Databases & Tools
-
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" title="MongoDB"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" title="PostgreSQL"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" title="MySQL"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" title="Docker"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" title="Git"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" title="Linux"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" title="Jupyter"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" title="VSCode"/></p>
-
-</div>
-
----
-##  GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=youssef-ben-letaifa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117#gh-dark-mode-only" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=youssef-ben-letaifa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117#gh-dark-mode-only" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=youssef-ben-letaifa&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true#gh-light-mode-only" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=youssef-ben-letaifa&layout=compact&langs_count=8&theme=default&hide_border=true#gh-light-mode-only" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-ben-letaifa&theme=tokyonight&hide_border=true&background=0d1117&ring=00BFFF&fire=0047AB&currStreakLabel=00BFFF#gh-dark-mode-only" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-ben-letaifa&theme=default&hide_border=true&ring=0047AB&fire=0047AB&currStreakLabel=0047AB#gh-light-mode-only" />
-</div>
-
----
-
-##  GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=youssef-ben-letaifa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7#gh-dark-mode-only" />
-  <img src="https://github-profile-trophy.vercel.app/?username=youssef-ben-letaifa&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7#gh-light-mode-only" />
-</div>
-
----
-
-##  Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ben-letaifa&theme=tokyo-night&hide_border=true&area=true&area_color=0047AB&line=00BFFF&point=ffffff&bg_color=0d1117#gh-dark-mode-only" width="95%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ben-letaifa&theme=github&hide_border=true&area=true&area_color=0047AB&line=0047AB&point=0047AB#gh-light-mode-only" width="95%" />
-</div>
-
----
-
-
-
-##  Areas of Expertise
-
-<div align="center">
-
-|  Deep Learning |  Computer Vision |  NLP |  Intelligent Systems |
-|:---:|:---:|:---:|:---:|
-| Neural Networks | Image Classification | Text Analysis | Agent Design |
-| CNN & RNN | Object Detection | Sentiment Analysis | Decision Systems |
-| Transfer Learning | Image Segmentation | Language Models | Optimization |
-| Model Optimization | Face Recognition | Text Generation | Control Systems |
+| 🧠 Deep Learning | 👁️ Computer Vision | 💬 NLP | ⚙️ Intelligent Systems |
+|:---|:---|:---|:---|
+| CNN · RNN · Transformers | Image Classification | Text Analysis & Generation | Agent & Decision Design |
+| Transfer & Few-Shot Learning | Object Detection & Segmentation | Sentiment & Intent Analysis | Optimization & Control |
+| Model Compression & Pruning | Face Recognition | Large Language Models | Biomedical AI Systems |
 
 </div>
 
 ---
 
-##  Professional Journey
--  **Medical Software Developer** — TSMED Systems
--  **Design and Application of Artificial Intelligence Techniques in Biomedical Engineering Systems** — Laboratory LATIS, ENISo
--  **Active Member** — LEO KEF ACROPOLIS
--  **Leadership Roles** in various engineering & tech organizations
--  **Continuous Learner** in AI/ML advancements
-
----
-
-##  Current Focus
+## ◈ Current Focus
 
 ```python
 class YoussefBenLetaifa:
-    def __init__(self):
-        self.role = "AI Developer & Intelligent Systems Engineer"
-        self.location = "Sousse, Tunisia"
-        self.background = "Biomedical Engineering"
-        self.interests = [
-            "Deep Learning",
-            "Computer Vision",
-            "Natural Language Processing",
-            "Intelligent Systems",
-            "Neural Networks",
-            "AI Research"
-        ]
-        self.currently_learning = [
-            "Advanced Deep Learning Architectures",
-            "Transformer Models",
-            "Reinforcement Learning",
-            "MLOps & AI Deployment"
-        ]
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
-
-me = YoussefBenLetaifa()
-me.say_hi()
+    role        = "AI Developer & Intelligent Systems Engineer"
+    location    = "Sousse, Tunisia 🇹🇳"
+    background  = "Biomedical Engineering"
+    
+    expertise   = ["Deep Learning", "Computer Vision", "NLP", "Neural Architectures"]
+    learning    = ["Transformer Models", "Reinforcement Learning", "MLOps", "AI Agents"]
+    
+    motto = "Build things that didn't exist yesterday."
 ```
 
 ---
 
-##  Let's Connect!
+## ◈ Let's Connect
 
 <div align="center">
 
-*I'm always excited to collaborate on AI projects and discuss innovative ideas!*
+*Open to AI research collaborations, impactful projects, and ambitious ideas.*
 
-<br>
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230047AB.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://benletaifayoussef.lovable.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefbenletaifa/)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ben.letaifa.youssef@gmail.com)
+<a href="https://benletaifayoussef.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-0047AB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/youssefbenletaifa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:ben.letaifa.youssef@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br><br>
-
-> **"Genius is one percent inspiration and ninety-nine percent perspiration." — Thomas Edison**
-
-<br>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=youssef-ben-letaifa&color=0047AB&style=for-the-badge&label=Profile+Views" />
 
-<br>
+<br/><br/>
 
-**💙 Thanks for visiting! Feel free to explore my AI projects and reach out for collaborations!**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:0047AB,100:0d1117&height=140&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047AB,50:0a1628,100:0d1117&height=130&section=footer&animation=fadeIn" />
 
 </div>
