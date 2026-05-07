@@ -30,7 +30,7 @@
 
 I am an **AI Developer and Intelligent Systems Engineer** with a foundation in Biomedical Engineering. My work sits at the intersection of deep learning research and real-world engineering — designing systems that are not only theoretically sound but production-ready.
 
-I specialize in building end-to-end AI pipelines across computer vision, natural language processing, and intelligent agent design. My research background at **Laboratory LATIS, ENISo** gave me a rigorous scientific foundation; my role at **TSMED Systems** keeps me grounded in practical, high-stakes software delivery.
+I specialize in building end-to-end AI pipelines across computer vision, natural language processing, and intelligent agent design. 
 
 Currently expanding into Transformer architectures, Reinforcement Learning, and MLOps — always with the goal of pushing what AI systems can actually do.
 
