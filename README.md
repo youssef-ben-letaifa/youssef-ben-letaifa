@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B00FF,50:3d0080,100:0d0015&height=140&section=header&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
 <!--  ╔══════════════════════════════════════════════════════════════════╗
@@ -38,19 +40,19 @@ My work spans the full hardware-to-intelligence stack — from **bare-metal embe
 
 I design and build systems that operate in the real world, not just in simulations:
 
-- 🚗 &nbsp; Autonomous driving · perception · decision-making
-- ⚡ &nbsp; Electric vehicle powertrain & BMS control
-- 🤖 &nbsp; Robotics, ROS2 & motion planning
-- 🚦 &nbsp; Intelligent transportation & cooperative driving
-- 🏭 &nbsp; Industrial automation & embedded AI
-- 🏥 &nbsp; Biomedical AI & biosignal processing
+- &nbsp; Autonomous driving · perception · decision-making
+- &nbsp; Electric vehicle powertrain & BMS control
+- &nbsp; Robotics, ROS2 & motion planning
+-  &nbsp; Intelligent transportation & cooperative driving
+- &nbsp; Industrial automation & embedded AI
+- &nbsp; Biomedical AI & biosignal processing
 
 </td>
 <td width="43%" valign="top">
 
 ```yaml
 name:     Youssef Ben Letaifa
-role:     Autonomous Systems Engineer
+role:     Autonomous Systems • Control Engineering
 base:     Sousse, Tunisia
 
 domains:
@@ -80,14 +82,14 @@ status:   Open to Collaboration
 
 <div align="center">
 
-| 🚗 AUTONOMOUS SYSTEMS | ⚡ ELECTRIC VEHICLES | 🤖 ROBOTICS | 🏭 INDUSTRIAL AUTOMATION |
+|  AUTONOMOUS SYSTEMS |  ELECTRIC VEHICLES | ROBOTICS |  INDUSTRIAL AUTOMATION |
 |:---|:---|:---|:---|
 | Perception & Sensor Fusion | EV Powertrain Control | ROS / ROS2 Architecture | SCADA / PLC Integration |
 | Path Planning & Navigation | BMS Design & Management | Kinematics & Dynamics | Edge AI Deployment |
 | SLAM & Localization | FOC Motor Control | Manipulation & Motion Planning | Predictive Maintenance |
 | Embedded Autonomy Stack | Charging System Design | Sim-to-Real Transfer | Industrial Computer Vision |
 
-| 🧠 EMBEDDED AI | 🚦 INTELLIGENT TRANSPORT | 🏥 BIOMEDICAL TECH | ⚙️ CONTROL ENGINEERING |
+|  EMBEDDED AI |  INTELLIGENT TRANSPORT | BIOMEDICAL TECH |  CONTROL ENGINEERING |
 |:---|:---|:---|:---|
 | TFLite / ONNX Runtime | V2X Communication | ECG / EEG Signal Processing | PID · MPC · LQR |
 | Edge Inference Optimization | Traffic Flow Intelligence | Medical Device Firmware | State Space Modeling |
@@ -140,7 +142,7 @@ status:   Open to Collaboration
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-ben-letaifa&hide_border=true&background=0d0015&ring=C77DFF&fire=7B00FF&currStreakLabel=C77DFF&sideLabels=e0c3fc&dates=8866aa&stroke=0d0015" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-ben-letaifa&hide_border=true&background=0d0015&ring=C77DFF&fire=7B00FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=C77DFF&sideLabels=9966bb&dates=7755aa&stroke=0d0015" />
 
 </div>
 
