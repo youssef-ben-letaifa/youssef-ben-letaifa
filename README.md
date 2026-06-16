@@ -36,14 +36,13 @@
 
 I'm an **Autonomous Systems & Intelligent Systems Engineer** with a foundation in Biomedical Engineering.
 
-My work spans the full hardware-to-intelligence stack — from **bare-metal embedded firmware** and **motor control algorithms** to **AI perception pipelines** and **autonomous vehicle architectures**.
+My work spans the full hardware-to-intelligence stack — from **bare-metal embedded firmware** and **motor control algorithms** to **AI perception pipelines** and **autonomous system architectures**.
 
 I design and build systems that operate in the real world, not just in simulations:
 
-- &nbsp; Autonomous driving · perception · decision-making
-- &nbsp; Electric vehicle powertrain & BMS control
+- &nbsp; Autonomous system · perception · decision-making
 - &nbsp; Robotics, ROS2 & motion planning
--  &nbsp; Intelligent transportation & cooperative driving
+-  &nbsp; Intelligent Systems
 - &nbsp; Industrial automation & embedded AI
 - &nbsp; Biomedical AI & biosignal processing
 
@@ -58,7 +57,6 @@ base:     Sousse, Tunisia
 domains:
   - Autonomous Systems
   - Control Engineering
-  - Electric Vehicles
   - Robotics & ROS2
   - Embedded AI
   - Intelligent Transport
@@ -82,12 +80,12 @@ status:   Open to Collaboration
 
 <div align="center">
 
-|  AUTONOMOUS SYSTEMS |  ELECTRIC VEHICLES | ROBOTICS |  INDUSTRIAL AUTOMATION |
+|  AUTONOMOUS SYSTEMS |  ROBOTICS |  INDUSTRIAL AUTOMATION |
 |:---|:---|:---|:---|
-| Perception & Sensor Fusion | EV Powertrain Control | ROS / ROS2 Architecture | SCADA / PLC Integration |
-| Path Planning & Navigation | BMS Design & Management | Kinematics & Dynamics | Edge AI Deployment |
-| SLAM & Localization | FOC Motor Control | Manipulation & Motion Planning | Predictive Maintenance |
-| Embedded Autonomy Stack | Charging System Design | Sim-to-Real Transfer | Industrial Computer Vision |
+| Perception & Sensor Fusion | ROS / ROS2 Architecture | SCADA / PLC Integration |
+| Path Planning & Navigation |  Kinematics & Dynamics | Edge AI Deployment |
+| SLAM & Localization |  Manipulation & Motion Planning | Predictive Maintenance |
+| Embedded Autonomy Stack |Sim-to-Real Transfer | Industrial Computer Vision |
 
 |  EMBEDDED AI |  INTELLIGENT TRANSPORT | BIOMEDICAL TECH |  CONTROL ENGINEERING |
 |:---|:---|:---|:---|
@@ -180,16 +178,15 @@ status:   Open to Collaboration
 
 ```python
 class YoussefBenLetaifa:
-    role        = "Autonomous Systems & Intelligent Systems Engineer"
+    role        = "Autonomous Systems & Intelligent Systems Engineering"
     base        = "Sousse, Tunisia"
-    background  = "Biomedical Engineering"
+    background  = "Biomedical Engineering and AI "
 
     systems = {
         "autonomous_driving":    ["Perception", "SLAM", "Path Planning", "Sensor Fusion"],
         "electric_vehicles":     ["Powertrain Control", "BMS", "FOC", "Charging Systems"],
         "robotics":              ["ROS2", "Kinematics", "Motion Planning", "Manipulation"],
         "embedded_ai":           ["TFLite", "ONNX", "Edge Inference", "MCU Deployment"],
-        "intelligent_transport": ["V2X", "Traffic AI", "Smart Mobility", "Cooperative Driving"],
         "biomedical_tech":       ["ECG/EEG", "Medical AI", "Biosignal Processing", "Wearables"],
         "industrial_automation": ["SCADA", "PLC", "Computer Vision", "Predictive Maintenance"],
         "control_engineering":   ["PID", "MPC", "LQR", "State-Space", "Digital Control"],
