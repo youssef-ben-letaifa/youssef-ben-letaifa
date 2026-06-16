@@ -197,7 +197,7 @@ class YoussefBenLetaifa:
     def available_for(self):
         return [
             "Autonomous Systems Research & Development",
-            "EV Powertrain & Robotics Engineering",
+            "Robotics Engineering",
             "AI Consulting & Open Source Collaboration",
         ]
 ```
