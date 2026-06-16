@@ -183,8 +183,6 @@ class YoussefBenLetaifa:
     background  = "Biomedical Engineering and AI "
 
     systems = {
-        "autonomous_driving":    ["Perception", "SLAM", "Path Planning", "Sensor Fusion"],
-        "electric_vehicles":     ["Powertrain Control", "BMS", "FOC", "Charging Systems"],
         "robotics":              ["ROS2", "Kinematics", "Motion Planning", "Manipulation"],
         "embedded_ai":           ["TFLite", "ONNX", "Edge Inference", "MCU Deployment"],
         "biomedical_tech":       ["ECG/EEG", "Medical AI", "Biosignal Processing", "Wearables"],
