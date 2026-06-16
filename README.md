@@ -7,7 +7,7 @@
       ║  it as shown below. Replace URL if you host it elsewhere.      ║
       ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<img src="./banner.png" width="100%" alt="Youssef Ben Letaifa — Autonomous Systems & Intelligent Systems Engineering"/>
+<img src="./BannerY.png" width="100%" alt="Youssef Ben Letaifa — Autonomous Systems & Intelligent Systems Engineering"/>
 
 <br/>
 
