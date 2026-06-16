@@ -81,7 +81,7 @@ status:   Open to Collaboration
 <div align="center">
 
 |  AUTONOMOUS SYSTEMS |  ROBOTICS |  INDUSTRIAL AUTOMATION |
-|:---|:---|:---|:---|
+|:---|:---|:---|
 | Perception & Sensor Fusion | ROS / ROS2 Architecture | SCADA / PLC Integration |
 | Path Planning & Navigation |  Kinematics & Dynamics | Edge AI Deployment |
 | SLAM & Localization |  Manipulation & Motion Planning | Predictive Maintenance |
