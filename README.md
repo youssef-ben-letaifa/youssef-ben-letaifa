@@ -18,7 +18,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2600&pause=900&color=C77DFF&center=true&vCenter=true&width=780&lines=Autonomous+Systems+%26+Biomedical AI+Engineering;Control+Engineering+%7C+Embedded+AI;Biomedical+Technology;Sousse%2C+Tunisia+%7C+Building+Real-World+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2600&pause=900&color=C77DFF&center=true&vCenter=true&width=780&lines=Autonomous+Systems+%26+Biomedical+AI+Engineering;Control+Engineering+%7C+Embedded+AI;Biomedical+Technology;Sousse%2C+Tunisia+%7C+Building+Real-World+Systems" />
 
 </div>
 
