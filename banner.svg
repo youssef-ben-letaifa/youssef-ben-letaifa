@@ -1,38 +1,56 @@
 <svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
   <defs>
+    <clipPath id="cardClip">
+      <rect x="0" y="0" width="1200" height="300" rx="28"/>
+    </clipPath>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0B1120"/>
-      <stop offset="55%" stop-color="#0F1A3D"/>
-      <stop offset="100%" stop-color="#1D3A8A"/>
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#EAF1FF"/>
     </linearGradient>
+    <radialGradient id="blobA" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#93C5FD" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#93C5FD" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blobB" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#C7D2FE" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#C7D2FE" stop-opacity="0"/>
+    </radialGradient>
     <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
-      <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#3B82F6" stroke-width="1"/>
+      <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#1D4ED8" stroke-width="1"/>
     </pattern>
   </defs>
 
-  <!-- background -->
-  <rect width="1200" height="300" fill="url(#bgGrad)"/>
+  <g clip-path="url(#cardClip)">
+    <rect width="1200" height="300" fill="url(#bgGrad)"/>
 
-  <!-- blueprint grid accent, right side only -->
-  <rect x="620" y="0" width="580" height="300" fill="url(#grid)" opacity="0.16"/>
+    <!-- soft blurred blobs for depth: doubles as an organic, cell-like nod to the biomedical grounding -->
+    <circle cx="1100" cy="30" r="230" fill="url(#blobA)"/>
+    <circle cx="90" cy="330" r="190" fill="url(#blobB)"/>
 
-  <!-- ECG pulse motif: the one signature element, grounded in biosignal / medical AI work -->
-  <g opacity="0.85">
-    <path d="M 700 150 L 860 150 L 878 108 L 896 205 L 914 150 L 955 150 L 972 132 L 989 150 L 1160 150"
-          stroke="#60A5FA" stroke-width="2.5" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
-    <circle cx="896" cy="205" r="4.5" fill="#3B82F6"/>
-    <circle cx="896" cy="205" r="9" fill="#3B82F6" opacity="0.25"/>
+    <!-- blueprint grid accent, right side only -->
+    <rect x="620" y="0" width="580" height="300" fill="url(#grid)" opacity="0.10"/>
+
+    <!-- ECG pulse motif: the one signature element, grounded in biosignal / medical AI work -->
+    <g opacity="0.9">
+      <path d="M 700 150 L 860 150 L 878 108 L 896 205 L 914 150 L 955 150 L 972 132 L 989 150 L 1160 150"
+            stroke="#1D4ED8" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+      <circle cx="896" cy="205" r="5" fill="#1D4ED8"/>
+      <circle cx="896" cy="205" r="12" fill="#1D4ED8" opacity="0.15"/>
+    </g>
+
+    <!-- accent bar -->
+    <rect x="80" y="112" width="56" height="6" rx="3" fill="#1D4ED8"/>
+
+    <!-- headline: bold Arial, per spec -->
+    <text x="80" y="172" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="54" fill="#0B1120" letter-spacing="0.5">YOUSSEF BEN LETAIFA</text>
+
+    <!-- subtitle -->
+    <text x="80" y="204" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="19" fill="#1D4ED8" letter-spacing="3">MEDICAL AI &amp; SOFTWARE ENGINEER</text>
+
+    <!-- tertiary line -->
+    <text x="80" y="234" font-family="Arial, Helvetica, sans-serif" font-weight="400" font-size="15" fill="#64748B">Clinical AI &#183; Health Software &#183; Biosignal Processing &#8212; Sousse, Tunisia</text>
   </g>
 
-  <!-- accent bar -->
-  <rect x="80" y="112" width="56" height="6" rx="3" fill="#3B82F6"/>
-
-  <!-- headline: bold Arial, per spec -->
-  <text x="80" y="172" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="54" fill="#FFFFFF" letter-spacing="0.5">YOUSSEF BEN LETAIFA</text>
-
-  <!-- subtitle -->
-  <text x="80" y="204" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="19" fill="#60A5FA" letter-spacing="3">MEDICAL AI &amp; SOFTWARE ENGINEER</text>
-
-  <!-- tertiary line -->
-  <text x="80" y="234" font-family="Arial, Helvetica, sans-serif" font-weight="400" font-size="15" fill="#94A3B8">Clinical AI &#183; Health Software &#183; Biosignal Processing &#8212; Sousse, Tunisia</text>
+  <!-- crisp card edge, since the fill is near-white and needs definition on light backgrounds -->
+  <rect x="1.5" y="1.5" width="1197" height="297" rx="26.5" fill="none" stroke="#DBEAFE" stroke-width="3"/>
 </svg>
