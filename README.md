@@ -64,31 +64,19 @@ status:     Open to collaboration
 
 **AI &amp; Deep Learning**
 <br/>
-![Python](https://img.shields.io/badge/Python-1D4ED8?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-1D4ED8?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1D4ED8?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-1D4ED8?style=flat-square&logo=opencv&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-1D4ED8?style=flat-square&logo=scikitlearn&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn&theme=light" />
 
-<br/>
+<br/><br/>
 
 **Software &amp; Backend**
 <br/>
-![React](https://img.shields.io/badge/React-1D4ED8?style=flat-square&logo=react&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-1D4ED8?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-1D4ED8?style=flat-square&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1D4ED8?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1D4ED8?style=flat-square&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,docker,git&theme=light" />
 
-<br/>
+<br/><br/>
 
 **Data &amp; DevOps**
 <br/>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1D4ED8?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-1D4ED8?style=flat-square&logo=mongodb&logoColor=white)
-![VS_Code](https://img.shields.io/badge/VS_Code-1D4ED8?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-1D4ED8?style=flat-square&logo=jupyter&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-1D4ED8?style=flat-square&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,vscode,jupyter,github&theme=light" />
 
 </div>
 
