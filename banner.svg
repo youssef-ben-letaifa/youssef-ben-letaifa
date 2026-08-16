@@ -1,0 +1,38 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1120"/>
+      <stop offset="55%" stop-color="#0F1A3D"/>
+      <stop offset="100%" stop-color="#1D3A8A"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#3B82F6" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="300" fill="url(#bgGrad)"/>
+
+  <!-- blueprint grid accent, right side only -->
+  <rect x="620" y="0" width="580" height="300" fill="url(#grid)" opacity="0.16"/>
+
+  <!-- ECG pulse motif: the one signature element, grounded in biosignal / medical AI work -->
+  <g opacity="0.85">
+    <path d="M 700 150 L 860 150 L 878 108 L 896 205 L 914 150 L 955 150 L 972 132 L 989 150 L 1160 150"
+          stroke="#60A5FA" stroke-width="2.5" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+    <circle cx="896" cy="205" r="4.5" fill="#3B82F6"/>
+    <circle cx="896" cy="205" r="9" fill="#3B82F6" opacity="0.25"/>
+  </g>
+
+  <!-- accent bar -->
+  <rect x="80" y="112" width="56" height="6" rx="3" fill="#3B82F6"/>
+
+  <!-- headline: bold Arial, per spec -->
+  <text x="80" y="172" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="54" fill="#FFFFFF" letter-spacing="0.5">YOUSSEF BEN LETAIFA</text>
+
+  <!-- subtitle -->
+  <text x="80" y="204" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="19" fill="#60A5FA" letter-spacing="3">MEDICAL AI &amp; SOFTWARE ENGINEER</text>
+
+  <!-- tertiary line -->
+  <text x="80" y="234" font-family="Arial, Helvetica, sans-serif" font-weight="400" font-size="15" fill="#94A3B8">Clinical AI &#183; Health Software &#183; Biosignal Processing &#8212; Sousse, Tunisia</text>
+</svg>
