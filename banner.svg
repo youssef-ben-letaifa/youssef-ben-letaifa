@@ -1,56 +1,198 @@
-<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <clipPath id="cardClip">
-      <rect x="0" y="0" width="1200" height="300" rx="28"/>
-    </clipPath>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FFFFFF"/>
-      <stop offset="100%" stop-color="#EAF1FF"/>
-    </linearGradient>
-    <radialGradient id="blobA" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#93C5FD" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#93C5FD" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="blobB" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#C7D2FE" stop-opacity="0.45"/>
-      <stop offset="100%" stop-color="#C7D2FE" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
-      <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#1D4ED8" stroke-width="1"/>
-    </pattern>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 700" width="1280" height="700" role="img" aria-label="Youssef Ben Letaifa - Medical AI and Software Engineer">
+<title>Youssef Ben Letaifa — Medical AI &amp; Software Engineer</title>
+<defs>
+<style type="text/css"><![CDATA[
+text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+.headline{font-family:Arial,Helvetica,sans-serif}
+@keyframes fadeIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+@keyframes popIn{0%{opacity:0;transform:scale(.9)}70%{opacity:1;transform:scale(1.02)}100%{opacity:1;transform:scale(1)}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes floaty{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+@keyframes glowPulse{0%,100%{opacity:.7}50%{opacity:1}}
+@keyframes dotPulse{0%,100%{opacity:.9;transform:scale(1)}50%{opacity:.4;transform:scale(1.6)}}
+.ii,.pill,.chip,.card,.soc{opacity:0;transform-box:fill-box;transform-origin:center}
+.fadeIn{animation:fadeIn .5s ease forwards}
+.popIn{animation:popIn .6s cubic-bezier(.2,.8,.3,1.2) forwards;transform-box:fill-box;transform-origin:left center}
+.cur{animation:blink 1s step-end infinite}
+.fl{animation:floaty 5.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+.gp{animation:glowPulse 2.6s ease-in-out infinite}
+.dp{transform-box:fill-box;transform-origin:center;animation:dotPulse 1.8s ease-in-out infinite}
+.sep{stroke:#DCE7FA;stroke-width:1}
+]]></style>
 
-  <g clip-path="url(#cardClip)">
-    <rect width="1200" height="300" fill="url(#bgGrad)"/>
+<linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#FFFFFF"/><stop offset="100%" stop-color="#EAF1FF"/>
+</linearGradient>
+<radialGradient id="blobA"><stop offset="0%" stop-color="#93C5FD" stop-opacity=".5"/><stop offset="100%" stop-color="#93C5FD" stop-opacity="0"/></radialGradient>
+<radialGradient id="blobB"><stop offset="0%" stop-color="#C7D2FE" stop-opacity=".45"/><stop offset="100%" stop-color="#C7D2FE" stop-opacity="0"/></radialGradient>
+<linearGradient id="nameg" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#0B1120"/><stop offset="100%" stop-color="#1D4ED8"/>
+</linearGradient>
+<pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="13" cy="13" r=".9" fill="#1D4ED8" opacity=".08"/></pattern>
+<filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="cardClip"><rect x="0" y="0" width="1280" height="700" rx="26"/></clipPath>
 
-    <!-- soft blurred blobs for depth: doubles as an organic, cell-like nod to the biomedical grounding -->
-    <circle cx="1100" cy="30" r="230" fill="url(#blobA)"/>
-    <circle cx="90" cy="330" r="190" fill="url(#blobB)"/>
+<clipPath id="cPrompt"><rect x="48" y="52" width="0" height="24"><animate attributeName="width" from="0" to="430" dur=".9s" begin=".3s" fill="freeze"/></rect></clipPath>
+<clipPath id="cHi"><rect x="48" y="86" width="0" height="30"><animate attributeName="width" from="0" to="140" dur=".4s" begin="1.2s" fill="freeze"/></rect></clipPath>
+<clipPath id="cq1"><rect x="76" y="228" width="0" height="26"><animate attributeName="width" from="0" to="300" dur=".6s" begin="3.3s" fill="freeze"/></rect></clipPath>
+<clipPath id="cq2"><rect x="76" y="252" width="0" height="26"><animate attributeName="width" from="0" to="220" dur=".5s" begin="3.9s" fill="freeze"/></rect></clipPath>
 
-    <!-- blueprint grid accent, right side only -->
-    <rect x="620" y="0" width="580" height="300" fill="url(#grid)" opacity="0.10"/>
+<clipPath id="r1"><rect x="66" y="184" width="0" height="26"><animate attributeName="width" values="0;0;400;400;0;0" keyTimes="0;.01;.07;.2;.24;1" dur="20s" repeatCount="indefinite" begin="2.6s"/></rect></clipPath>
+<clipPath id="r2"><rect x="66" y="184" width="0" height="26"><animate attributeName="width" values="0;0;400;400;0;0" keyTimes="0;.26;.32;.45;.49;1" dur="20s" repeatCount="indefinite" begin="2.6s"/></rect></clipPath>
+<clipPath id="r3"><rect x="66" y="184" width="0" height="26"><animate attributeName="width" values="0;0;400;400;0;0" keyTimes="0;.51;.57;.7;.74;1" dur="20s" repeatCount="indefinite" begin="2.6s"/></rect></clipPath>
+<clipPath id="r4"><rect x="66" y="184" width="0" height="26"><animate attributeName="width" values="0;0;400;400;0;0" keyTimes="0;.76;.82;.95;.99;1" dur="20s" repeatCount="indefinite" begin="2.6s"/></rect></clipPath>
 
-    <!-- ECG pulse motif: the one signature element, grounded in biosignal / medical AI work -->
-    <g opacity="0.9">
-      <path d="M 700 150 L 860 150 L 878 108 L 896 205 L 914 150 L 955 150 L 972 132 L 989 150 L 1160 150"
-            stroke="#1D4ED8" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
-      <circle cx="896" cy="205" r="5" fill="#1D4ED8"/>
-      <circle cx="896" cy="205" r="12" fill="#1D4ED8" opacity="0.15"/>
-    </g>
+<clipPath id="illReveal"><rect x="650" y="270" width="582" height="0"><animate attributeName="height" from="0" to="380" dur="1.4s" begin="3.6s" fill="freeze"/></rect></clipPath>
+</defs>
 
-    <!-- accent bar -->
-    <rect x="80" y="112" width="56" height="6" rx="3" fill="#1D4ED8"/>
+<!-- ================= BACKGROUND ================= -->
+<rect width="1280" height="700" rx="26" fill="url(#bgGrad)"/>
+<g clip-path="url(#cardClip)">
+  <rect width="1280" height="700" fill="url(#dots)"/>
+  <circle cx="1180" cy="40" r="230" fill="url(#blobA)"><animate attributeName="r" values="230;250;230" dur="6s" repeatCount="indefinite"/></circle>
+  <circle cx="60" cy="660" r="190" fill="url(#blobB)"><animate attributeName="r" values="190;210;190" dur="7s" repeatCount="indefinite"/></circle>
+</g>
+<rect x="1.5" y="1.5" width="1277" height="697" rx="24.5" fill="none" stroke="#DBEAFE" stroke-width="3"/>
 
-    <!-- headline: bold Arial, per spec -->
-    <text x="80" y="172" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="54" fill="#0B1120" letter-spacing="0.5">YOUSSEF BEN LETAIFA</text>
+<!-- ================= LEFT: CONTENT ================= -->
+<!-- terminal prompt -->
+<text clip-path="url(#cPrompt)" x="48" y="69" font-size="14"><tspan fill="#1a7f37" font-weight="bold">youssef@medical-ai</tspan><tspan fill="#6e7781">:~$ </tspan><tspan fill="#0B1120">cat </tspan><tspan fill="#1D4ED8">README.md</tspan></text>
+<rect x="422" y="56" width="7" height="16" fill="#1a7f37" opacity="0"><animate attributeName="opacity" values="1;0" dur="1s" repeatCount="indefinite" begin="1.3s"/></rect>
 
-    <!-- subtitle -->
-    <text x="80" y="204" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="19" fill="#1D4ED8" letter-spacing="3">MEDICAL AI &amp; SOFTWARE ENGINEER</text>
+<!-- greeting -->
+<text clip-path="url(#cHi)" x="48" y="106" font-size="21" font-weight="bold" fill="#0B1120">Hi, I'm </text>
 
-    <!-- tertiary line -->
-    <text x="80" y="234" font-family="Arial, Helvetica, sans-serif" font-weight="400" font-size="15" fill="#64748B">Clinical AI &#183; Health Software &#183; Biosignal Processing &#8212; Sousse, Tunisia</text>
+<!-- accent bar + name -->
+<rect class="ii fadeIn" style="animation-delay:1.55s" x="48" y="126" width="52" height="5" rx="2.5" fill="#1D4ED8"/>
+<text class="headline ii popIn" style="animation-delay:1.6s" x="48" y="176" font-size="44" font-weight="800" fill="url(#nameg)">Youssef Ben Letaifa</text>
+
+<!-- cycling roles -->
+<rect x="48" y="172" width="2.5" height="17" fill="#1D4ED8" opacity="0"><animate attributeName="opacity" values="1;0" dur=".8s" repeatCount="indefinite" begin="2.6s"/></rect>
+<text clip-path="url(#r1)" x="66" y="200" font-size="16.5" fill="#1D4ED8">&lt; Medical AI Engineer /&gt;</text>
+<text clip-path="url(#r2)" x="66" y="200" font-size="16.5" fill="#1D4ED8">&lt; Health Software Developer /&gt;</text>
+<text clip-path="url(#r3)" x="66" y="200" font-size="16.5" fill="#1D4ED8">&lt; Biosignal Processing Specialist /&gt;</text>
+<text clip-path="url(#r4)" x="66" y="200" font-size="16.5" fill="#1D4ED8">&lt; Biomedical Engineer /&gt;</text>
+
+<!-- quote box -->
+<g class="card fadeIn" style="animation-delay:3.0s">
+  <rect x="48" y="222" width="480" height="70" rx="10" fill="#F0F5FF" stroke="#DBEAFE" stroke-width="1"/>
+  <rect x="48" y="226" width="3.5" height="62" rx="1.5" fill="#1D4ED8"/>
+</g>
+<text clip-path="url(#cq1)" x="76" y="248" font-size="14.5" fill="#0B1120">I don't just study biology,</text>
+<text clip-path="url(#cq2)" x="76" y="272" font-size="14.5"><tspan fill="#0B1120">I </tspan><tspan fill="#1D4ED8" font-weight="bold">engineer</tspan><tspan fill="#0B1120"> it.</tspan></text>
+
+<!-- tech pills -->
+<text class="ii fadeIn" style="animation-delay:4.3s" x="48" y="326" font-size="14" fill="#1D4ED8" font-weight="bold">Tech I Work With</text>
+<g class="pill fadeIn" style="animation-delay:4.45s"><rect x="48" y="340" width="76" height="26" rx="13" fill="rgba(29,78,216,.08)" stroke="#1D4ED8" stroke-width="1"/><text x="86" y="357" text-anchor="middle" font-size="12" fill="#1D4ED8" font-weight="bold">Python</text></g>
+<g class="pill fadeIn" style="animation-delay:4.6s"><rect x="132" y="340" width="82" height="26" rx="13" fill="rgba(37,99,235,.08)" stroke="#2563EB" stroke-width="1"/><text x="173" y="357" text-anchor="middle" font-size="12" fill="#2563EB" font-weight="bold">PyTorch</text></g>
+<g class="pill fadeIn" style="animation-delay:4.75s"><rect x="222" y="340" width="102" height="26" rx="13" fill="rgba(59,130,246,.09)" stroke="#3B82F6" stroke-width="1"/><text x="273" y="357" text-anchor="middle" font-size="12" fill="#1D4ED8" font-weight="bold">TensorFlow</text></g>
+<g class="pill fadeIn" style="animation-delay:4.9s"><rect x="332" y="340" width="86" height="26" rx="13" fill="rgba(2,132,199,.08)" stroke="#0284C7" stroke-width="1"/><text x="375" y="357" text-anchor="middle" font-size="12" fill="#0284C7" font-weight="bold">FastAPI</text></g>
+<g class="pill fadeIn" style="animation-delay:5.05s"><rect x="48" y="374" width="70" height="26" rx="13" fill="rgba(99,102,241,.09)" stroke="#6366F1" stroke-width="1"/><text x="83" y="391" text-anchor="middle" font-size="12" fill="#4F46E5" font-weight="bold">React</text></g>
+<g class="pill fadeIn" style="animation-delay:5.2s"><rect x="126" y="374" width="76" height="26" rx="13" fill="rgba(14,165,233,.08)" stroke="#0EA5E9" stroke-width="1"/><text x="164" y="391" text-anchor="middle" font-size="12" fill="#0369A1" font-weight="bold">Docker</text></g>
+
+<!-- about me -->
+<text class="ii fadeIn" style="animation-delay:5.4s" x="48" y="434" font-size="14" fill="#1D4ED8" font-weight="bold">About Me</text>
+<text class="ii fadeIn" style="animation-delay:5.55s" x="48" y="458" font-size="13.5"><tspan fill="#1a7f37">&gt;_ </tspan><tspan fill="#334155">I build AI systems that make healthcare smarter and safer.</tspan></text>
+<text class="ii fadeIn" style="animation-delay:5.7s" x="48" y="480" font-size="13.5"><tspan fill="#b45309"> - </tspan><tspan fill="#334155">Always learning, always building.</tspan></text>
+<text class="ii fadeIn" style="animation-delay:5.85s" x="48" y="502" font-size="13.5"><tspan fill="#1D4ED8"> - </tspan><tspan fill="#334155">Turning medical data into real clinical impact.</tspan></text>
+
+<!-- focus areas card -->
+<g class="card fadeIn" style="animation-delay:6.1s">
+  <rect x="48" y="522" width="536" height="60" rx="12" fill="#F8FAFF" stroke="#DBEAFE" stroke-width="1"/>
+  <line class="sep" x1="182" y1="536" x2="182" y2="568"/>
+  <line class="sep" x1="322" y1="536" x2="322" y2="568"/>
+  <line class="sep" x1="452" y1="536" x2="452" y2="568"/>
+</g>
+<g class="chip fadeIn" style="animation-delay:6.3s"><circle cx="70" cy="545" r="4" fill="#1D4ED8"/><text x="82" y="549" font-size="11.5" fill="#0B1120" font-weight="bold">Imaging AI</text></g>
+<g class="chip fadeIn" style="animation-delay:6.45s"><circle cx="204" cy="545" r="4" fill="#3B82F6"/><text x="216" y="549" font-size="11.5" fill="#0B1120" font-weight="bold">Biosignals</text></g>
+<g class="chip fadeIn" style="animation-delay:6.6s"><circle cx="344" cy="545" r="4" fill="#0EA5E9"/><text x="356" y="549" font-size="11.5" fill="#0B1120" font-weight="bold">Clinical SW</text></g>
+<g class="chip fadeIn" style="animation-delay:6.75s"><circle cx="474" cy="545" r="4" fill="#6366F1"/><text x="486" y="549" font-size="11.5" fill="#0B1120" font-weight="bold">Health Data</text></g>
+<text class="chip fadeIn" style="animation-delay:6.8s" x="70" y="566" font-size="10.5" fill="#64748B">CT/MRI/X-ray</text>
+<text class="chip fadeIn" style="animation-delay:6.85s" x="204" y="566" font-size="10.5" fill="#64748B">ECG/EEG</text>
+<text class="chip fadeIn" style="animation-delay:6.9s" x="344" y="566" font-size="10.5" fill="#64748B">HL7/FHIR</text>
+<text class="chip fadeIn" style="animation-delay:6.95s" x="474" y="566" font-size="10.5" fill="#64748B">Pipelines</text>
+
+<!-- ================= RIGHT: CODE CARD ================= -->
+<g class="card fadeIn" style="animation-delay:1.8s">
+  <rect x="650" y="48" width="280" height="190" rx="12" fill="#FFFFFF" stroke="#DBEAFE" stroke-width="1.2"/>
+  <rect x="650" y="48" width="280" height="26" rx="12" fill="#F0F5FF"/>
+  <rect x="650" y="62" width="280" height="12" fill="#F0F5FF"/>
+  <circle cx="668" cy="61" r="4.2" fill="#ff5f57"/><circle cx="682" cy="61" r="4.2" fill="#febc2e"/><circle cx="696" cy="61" r="4.2" fill="#28c840"/>
+  <text x="800" y="65" text-anchor="middle" font-size="10.5" fill="#64748B">care_model.py</text>
+</g>
+<g font-size="12">
+  <text class="ii fadeIn" style="animation-delay:2.1s" x="664" y="96"><tspan fill="#1D4ED8">def</tspan><tspan fill="#0B1120"> treat_patient</tspan><tspan fill="#64748B">(data):</tspan></text>
+  <text class="ii fadeIn" style="animation-delay:2.3s" x="678" y="116"><tspan fill="#0B1120">signal</tspan><tspan fill="#64748B"> = </tspan><tspan fill="#0284C7">preprocess</tspan><tspan fill="#64748B">(data)</tspan></text>
+  <text class="ii fadeIn" style="animation-delay:2.5s" x="678" y="136"><tspan fill="#0B1120">diagnosis</tspan><tspan fill="#64748B"> = </tspan><tspan fill="#0284C7">model.predict</tspan><tspan fill="#64748B">(signal)</tspan></text>
+  <text class="ii fadeIn" style="animation-delay:2.7s" x="678" y="156"><tspan fill="#1D4ED8">return</tspan><tspan fill="#0B1120"> confidence, diagnosis</tspan></text>
+  <text class="ii fadeIn" style="animation-delay:2.9s" x="664" y="186"><tspan fill="#94A3B8"># deployed_to == "clinic"</tspan></text>
+  <text class="ii fadeIn" style="animation-delay:3.05s" x="664" y="210"><tspan fill="#1a7f37">✓</tspan><tspan fill="#64748B"> model validated</tspan></text>
+</g>
+
+<!-- ================= RIGHT: SIGN CALLOUT ================= -->
+<g class="card fadeIn gp" style="animation-delay:3.3s">
+  <rect x="954" y="48" width="278" height="190" rx="12" fill="#F8FAFF" stroke="#1D4ED8" stroke-width="1.4" filter="url(#glow)" opacity=".95"/>
+</g>
+<g class="ii fadeIn" style="animation-delay:3.5s">
+  <path d="M980 118 L1020 118 L1027 100 L1034 148 L1041 118 L1055 118 L1062 108 L1069 118 L1090 118" stroke="#1D4ED8" stroke-width="2.5" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+</g>
+<text class="ii fadeIn" style="animation-delay:3.7s" x="1093" y="160" text-anchor="middle" font-size="20" font-weight="bold" fill="#0B1120">BUILD WITH</text>
+<text class="ii fadeIn" style="animation-delay:3.85s" x="1093" y="188" text-anchor="middle" font-size="20" font-weight="bold" fill="#1D4ED8" letter-spacing="1">CARE</text>
+
+<!-- ================= RIGHT: ORIGINAL ILLUSTRATION ================= -->
+<g clip-path="url(#illReveal)">
+<g class="fl" transform="translate(0,0)">
+  <!-- floating soft circles -->
+  <circle cx="700" cy="330" r="10" fill="#DBEAFE"/>
+  <circle cx="1190" cy="380" r="14" fill="#DBEAFE"/>
+  <circle cx="1160" cy="560" r="8" fill="#BFDBFE"/>
+
+  <!-- DNA helix -->
+  <g transform="translate(690,330)" stroke-linecap="round">
+    <path d="M0 0 C 40 40, -40 80, 0 120 C 40 160, -40 200, 0 240" fill="none" stroke="#3B82F6" stroke-width="3"/>
+    <path d="M60 0 C 20 40, 100 80, 60 120 C 20 160, 100 200, 60 240" fill="none" stroke="#93C5FD" stroke-width="3"/>
+    <line x1="4" y1="14" x2="56" y2="14" stroke="#BFDBFE" stroke-width="2.5"/>
+    <line x1="10" y1="54" x2="50" y2="54" stroke="#BFDBFE" stroke-width="2.5"/>
+    <line x1="4" y1="94" x2="56" y2="94" stroke="#BFDBFE" stroke-width="2.5"/>
+    <line x1="10" y1="134" x2="50" y2="134" stroke="#BFDBFE" stroke-width="2.5"/>
+    <line x1="4" y1="174" x2="56" y2="174" stroke="#BFDBFE" stroke-width="2.5"/>
+    <line x1="10" y1="214" x2="50" y2="214" stroke="#BFDBFE" stroke-width="2.5"/>
   </g>
 
-  <!-- crisp card edge, since the fill is near-white and needs definition on light backgrounds -->
-  <rect x="1.5" y="1.5" width="1197" height="297" rx="26.5" fill="none" stroke="#DBEAFE" stroke-width="3"/>
+  <!-- laptop with ECG -->
+  <g transform="translate(870,380)">
+    <rect x="0" y="0" width="260" height="160" rx="14" fill="#FFFFFF" stroke="#1D4ED8" stroke-width="2.5"/>
+    <rect x="16" y="16" width="228" height="128" rx="6" fill="#F0F5FF"/>
+    <path d="M32 82 L84 82 L94 58 L104 118 L114 82 L134 82 L142 68 L150 82 L228 82"
+          stroke="#1D4ED8" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+    <circle class="dp" cx="104" cy="118" r="5" fill="#1D4ED8"/>
+    <rect x="-14" y="160" width="288" height="16" rx="6" fill="#DBEAFE"/>
+  </g>
+
+  <!-- medical cross badge -->
+  <g transform="translate(1080,300)">
+    <circle r="34" fill="#FFFFFF" stroke="#1D4ED8" stroke-width="2.5"/>
+    <rect x="-5" y="-18" width="10" height="36" rx="3" fill="#1D4ED8"/>
+    <rect x="-18" y="-5" width="36" height="10" rx="3" fill="#1D4ED8"/>
+  </g>
+</g>
+</g>
+
+<!-- ================= FOOTER ================= -->
+<line x1="48" y1="640" x2="1232" y2="640" class="sep" stroke-dasharray="1184" stroke-dashoffset="1184">
+  <animate attributeName="stroke-dashoffset" from="1184" to="0" dur=".7s" begin="7.1s" fill="freeze"/>
+</line>
+<g class="soc fadeIn" style="animation-delay:7.3s">
+  <g transform="translate(48,654) scale(.78)"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z" fill="#0B1120"/></g>
+  <text x="72" y="668" font-size="12" fill="#334155">youssef-ben-letaifa</text>
+  <g transform="translate(226,655) scale(.78)"><rect x="1" y="3" width="22" height="17" rx="3.5" fill="none" stroke="#1D4ED8" stroke-width="2"/><path d="M2.5 5.5 12 13l9.5-7.5" fill="none" stroke="#1D4ED8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <text x="252" y="668" font-size="12" fill="#334155">ben.letaifa.youssef@gmail.com</text>
+  <g transform="translate(468,654) scale(.78)"><rect width="24" height="24" rx="5" fill="#1D4ED8"/><text x="12" y="17" text-anchor="middle" font-size="13" fill="#FFFFFF" font-weight="bold">in</text></g>
+  <text x="494" y="668" font-size="12" fill="#334155">youssefbenletaifa</text>
+</g>
+<g class="soc fadeIn" style="animation-delay:7.2s">
+  <circle cx="700" cy="663" r="4" fill="#28c840"/>
+  <text x="710" y="668" font-size="11.5" fill="#64748B">open to collaborate</text>
+</g>
+<text class="soc fadeIn" style="animation-delay:7.4s" x="1232" y="668" text-anchor="end" font-size="12.5"><tspan fill="#94A3B8">"</tspan><tspan fill="#1D4ED8">Building the future of care, one line at a time.</tspan><tspan fill="#94A3B8">" </tspan><tspan fill="#1D4ED8">🩺</tspan></text>
 </svg>
