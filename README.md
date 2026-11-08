@@ -1,124 +1,106 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Youssef Ben Letaifa — Medical AI & Software Engineer"/>
+# Youssef Ben Letaifa
 
-<br/>
+### M.Sc. · Biomedical AI Researcher
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1D4ED8?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0B1120)](https://benletaifayoussef.lovable.app/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1D4ED8?style=flat-square&logo=linkedin&logoColor=white&labelColor=0B1120)](https://www.linkedin.com/in/youssefbenletaifa/)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-1D4ED8?style=flat-square&logo=gmail&logoColor=white&labelColor=0B1120)](mailto:ben.letaifa.youssef@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-1D4ED8?style=flat-square&logo=github&logoColor=white&labelColor=0B1120)](https://github.com/youssef-ben-letaifa)
+**Control Systems Engineering · Autonomous Healthcare Systems · Physiological Signal Processing**
 
-<br/>
+*Sousse, Tunisia*
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=20&duration=2800&pause=1000&color=2563EB&center=true&vCenter=true&width=780&lines=Medical+AI+%26+Health+Software+Engineer;Clinical+AI+%7C+Medical+Imaging;Biosignal+Processing+%26+Diagnostics;Open+to+Collaboration" alt="typing tagline"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-benletaifayoussef.lovable.app-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://benletaifayoussef.lovable.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-youssefbenletaifa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefbenletaifa/)
+[![GitHub](https://img.shields.io/badge/GitHub-youssef--ben--letaifa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youssef-ben-letaifa)
 
 </div>
 
-<br/>
+---
 
-<img src="./divider.svg" width="100%"/>
+## Abstract
 
-<br/>
+My research sits at the intersection of **artificial intelligence, control engineering and clinical medicine**. I develop machine-learning methods that turn noisy physiological and imaging data into reliable, deployable decision-support, with a long-term focus on **autonomous healthcare systems**: closed-loop, patient-aware technology that can sense, reason and act safely.
 
-## Profile
+The work is grounded in biomedical engineering and aims at clinical-grade rigor: reproducible pipelines, rigorous validation, interpretable behaviour and privacy-aware design.
 
-<table>
-<tr>
-<td width="62%" valign="top">
+---
 
-I build AI and software for healthcare — from biosignal processing pipelines to clinical decision-support tools. A foundation in biomedical engineering grounds a practice focused on turning medical data into reliable, deployable software.
+## Research Interests
 
-I work at the intersection of applied AI and health software, focused on medical imaging, biosignal analysis, and clinical-grade system design.
+| Theme | Focus |
+|:--|:--|
+| **Biomedical Signal Processing** | ECG / EEG analysis, physiological signal classification, real-time patient monitoring, wearable health AI |
+| **Medical Image Analysis** | CT / MRI / X-ray deep learning, disease classification, computer-aided diagnosis |
+| **Autonomous Healthcare Systems** | Closed-loop and control-theoretic approaches to patient monitoring and intervention, safety-aware intelligent systems |
+| **Clinical Decision Support** | Predictive risk scoring, diagnostic support models, uncertainty-aware prediction |
+| **Trustworthy Medical AI** | Model validation, regulatory readiness, privacy-preserving design (HIPAA / GDPR), deployment of clinical AI |
 
-</td>
-<td width="38%" valign="top">
+---
+
+## Research Profile
 
 ```yaml
-name:       Youssef Ben Letaifa
-role:       Medical AI &
-            Software Engineer
-background: Biomedical Engineering
-location:   Sousse, Tunisia
-focus:      Medical AI · Health
-            Software · Biosignals
-status:     Open to collaboration
+name:         Youssef Ben Letaifa
+degree:       M.Sc.
+position:     Biomedical AI Researcher
+background:   Biomedical Engineering · Control Systems Engineering
+location:     Sousse, Tunisia
+primary:      Physiological signal processing · Medical imaging · Autonomous healthcare
+methods:      Deep learning · Computer vision · LLMs · Control theory
+status:       Open to research collaboration
 ```
 
-</td>
-</tr>
-</table>
+---
 
-## Core Expertise
+## Methodological Toolkit
 
-| Domain | Key Capabilities |
-|:---|:---|
-| **Medical AI & Diagnostics** | Medical imaging AI (CT / MRI / X-ray), diagnostic decision support, disease classification models, predictive risk scoring |
-| **Health Software Engineering** | Clinical software systems, HL7 / FHIR integration, EHR-connected applications, medical device software (IEC 62304-aligned) |
-| **Biosignal Processing** | ECG / EEG signal processing, biosignal AI & classification, real-time patient monitoring, wearable health AI |
-| **Clinical Data & MLOps** | Medical data pipelines, model validation & regulatory readiness, privacy-aware design (HIPAA / GDPR), clinical AI deployment |
+**Learning & Inference**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-## Tech Stack
+**Engineering & Deployment**
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<div align="center">
+**Clinical & Standards Context**
+`HL7 / FHIR` · `EHR integration` · `IEC 62304-aligned medical device software` · `HIPAA / GDPR-aware design`
 
-**AI &amp; Deep Learning**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn&theme=light" />
+---
 
-<br/><br/>
-
-**Software &amp; Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,docker,git&theme=light" />
-
-<br/><br/>
-
-**Data &amp; DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,vscode,jupyter,github&theme=light" />
-
-</div>
-
-<br/>
-
-<img src="./divider.svg" width="100%"/>
-
-<br/>
 
 ## GitHub Activity
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=youssef-ben-letaifa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=1D4ED8&icon_color=3B82F6&text_color=64748B" />
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=youssef-ben-letaifa&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=1D4ED8&text_color=64748B" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-ben-letaifa&hide_border=true&background=00000000&ring=1D4ED8&fire=3B82F6&currStreakNum=1D4ED8&sideNums=64748B&currStreakLabel=1D4ED8&sideLabels=64748B&dates=94A3B8&stroke=00000000" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssef-ben-letaifa&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-ben-letaifa&layout=compact&hide_border=true)
 
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-ben-letaifa&bg_color=00000000&color=64748B&line=3B82F6&point=1D4ED8&area=true&area_color=3B82F6&hide_border=true" width="97%" />
-</div>
+---
 
-<br/>
+## Collaboration
 
-<img src="./divider.svg" width="100%"/>
-
-<br/>
+I am open to collaboration in **biomedical AI research**, **physiological signal and medical image analysis**, and **autonomous or closed-loop healthcare systems**. If your work overlaps with these areas, I would be glad to connect.
 
 <div align="center">
 
-## Let's Connect
-
-Open to medical AI research, health software engineering, and clinical AI consulting collaborations.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B1120)](https://benletaifayoussef.lovable.app/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1120)](https://www.linkedin.com/in/youssefbenletaifa/)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1120)](mailto:ben.letaifa.youssef@gmail.com)
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=youssef-ben-letaifa&color=1D4ED8&style=for-the-badge&label=PROFILE+VIEWS" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://benletaifayoussef.lovable.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefbenletaifa/)
 
 </div>
+
+<!--
+ADD WHEN READY (kept out of the visible profile until filled in):
+
+## Publications
+- Author, A., Author, B. *Title.* Journal / Conference, Year. [DOI](https://doi.org/...)
+
+## Education
+- M.Sc. in <field>, <University>, <years>
+
+## Contact
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+-->
