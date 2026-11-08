@@ -46,6 +46,8 @@ background:   Biomedical Engineering · Control Systems Engineering
 location:     Sousse, Tunisia
 primary:      Physiological signal processing · Medical imaging · Autonomous healthcare
 methods:      Deep learning · Computer vision · LLMs · Control theory
+languages:    Python (5y) · MATLAB (5y) · Rust (1y) · Go (1y)
+environment:  Linux (2y+)
 status:       Open to research collaboration
 ```
 
@@ -53,13 +55,22 @@ status:       Open to research collaboration
 
 ## Methodological Toolkit
 
+**Languages & Experience**
+
+| Technology | Experience | Primary Use |
+|:--|:--:|:--|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 5 years | AI / deep learning development, data pipelines, research prototyping |
+| ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white) | 5 years | Signal processing, control systems modelling and simulation, numerical analysis |
+| ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) | 1 year | Performance-critical and memory-safe systems components |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | 1 year | Backend services and tooling |
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | 2+ years | Primary development and deployment environment |
+
 **Learning & Inference**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**Engineering & Deployment**
+**Also Used**
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
